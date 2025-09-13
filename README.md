@@ -45,15 +45,15 @@ Each feature (Problem generation, Validation, Market research, etc.) is exposed 
 
 ---
 
-## 📚 Core Modules
+##  Core Modules
 
-- 🧠 **Problem Generator** – Creates tailored problem statements.  
-- ✨ **Concept Creator** – Turns validated problems into startup concepts.  
-- ✅ **Validation Framework** – Produces actionable validation tasks.  
-- 📊 **Market Research** – AI-driven competitor & market analysis with downloadable reports.  
-- 🧪 **MVP Planner** – Helps outline features, milestones, and roadmaps.  
-- 🔍 **JTBD & Disruption Analysis** – Encourages creative, disruptive ideas.  
-- 🤖 **Mentor Chat** – AI-powered mentor interface + human mentor integration.  
+-  **Problem Generator** – Creates tailored problem statements.  
+-  **Concept Creator** – Turns validated problems into startup concepts.  
+-  **Validation Framework** – Produces actionable validation tasks.  
+-  **Market Research** – AI-driven competitor & market analysis with downloadable reports.  
+-  **MVP Planner** – Helps outline features, milestones, and roadmaps.  
+-  **JTBD & Disruption Analysis** – Encourages creative, disruptive ideas.  
+-  **Mentor Chat** – AI-powered mentor interface + human mentor integration.  
 
 ---
 
@@ -93,8 +93,9 @@ Each feature (Problem generation, Validation, Market research, etc.) is exposed 
 - .NET 8 SDK  
 - Node.js 18+ with npm  
 - PostgreSQL or Docker  
-- (Optional) OpenAI API key  
-
+- (Optional) OpenAI API key
+  
+```bash
 ### Setup
 
 # Clone repo
@@ -116,6 +117,7 @@ dotnet run
 cd ../frontend
 npm install
 npm run dev
+```
 
 🔗 ## Access Points
 
