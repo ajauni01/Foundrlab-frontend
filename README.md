@@ -97,7 +97,6 @@ Each feature (Problem generation, Validation, Market research, etc.) is exposed 
 
 ### Setup
 
-```bash
 # Clone repo
 git clone https://github.com/your-org/foundrlab.git
 cd foundrlab
@@ -118,12 +117,13 @@ cd ../frontend
 npm install
 npm run dev
 
+🔗 ## Access Points
 
 Backend API → https://localhost:8080
 
 Frontend App → http://localhost:3000
 
-🧑‍💻 ## Development Guide
+🧑‍💻## Development Guide
 
 Environment Variables: DATABASE_URL, NEXT_PUBLIC_API_BASE, OPENAI_API_KEY
 
@@ -133,7 +133,7 @@ Tests: Coming soon
 
 Contribute: Fork → Feature branch → PR (use conventional commits)
 
-🎯 Use Cases & Applications
+🎯 ## Use Cases & Applications
 
 Students & Educators: Hands-on startup education with gamified XP/levels.
 
@@ -141,7 +141,7 @@ Universities & Incubators: Accelerators, online learning, engagement metrics.
 
 Community & Mentors: Volunteer mentorship, AI-chat feedback loops.
 
-🏆 Key Features
+🏆 ## Key Features
 
 AI-Driven Ideation & Analysis (Problem, Concept, Market, Validation, MVP)
 
@@ -149,7 +149,7 @@ Gamification (XP, Levels, Badges – future work)
 
 Secure Backend (Role-Based Access, Cookie Auth, Entity Modelling)
 
- Production Deployment
+## Production Deployment
 
 Dockerize API + Database
 
@@ -159,7 +159,7 @@ Use docker-compose.yml (coming soon)
 
 Configure SameSite=None + secure cookies
 
-🤝 Contributing
+🤝 ## Contributing
 
 We welcome contributions!
 
@@ -172,12 +172,4 @@ Translate UI/content into additional languages.
 Build analytics dashboards.
 
 Open issues for bugs/requests → submit PRs (follow conventional commits).
-
-📞 Support & Community
-
-Bug reports & features: GitHub Issues
-
-Discussion & questions: GitHub Discussions
-
-Docs: Coming soon in /docs
 
