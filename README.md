@@ -161,7 +161,7 @@ Use docker-compose.yml (coming soon)
 
 Configure SameSite=None + secure cookies
 
-🤝 ## Contributing
+## 🤝 Contributing
 
 We welcome contributions!
 
