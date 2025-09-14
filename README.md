@@ -119,13 +119,13 @@ npm install
 npm run dev
 ```
 
-🔗 ##Access Points
+🔗 ## Access Points
 
-Backend API → https://localhost:8080
+- **Backend API** → [https://localhost:8080](https://localhost:8080)  
+- **Frontend App** → [http://localhost:3000](http://localhost:3000)  
 
-Frontend App → http://localhost:3000
 
-🧑‍💻## Development Guide
+🧑‍💻 ## Development Guide
 
 Environment Variables: DATABASE_URL, NEXT_PUBLIC_API_BASE, OPENAI_API_KEY
 
