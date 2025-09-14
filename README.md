@@ -119,13 +119,13 @@ npm install
 npm run dev
 ```
 
-🔗 ## 🛠️ Technology Stack
+## Access Points
 
 - **Backend API** → [https://localhost:8080](https://localhost:8080)  
 - **Frontend App** → [http://localhost:3000](http://localhost:3000)  
 
 
-🧑‍💻 ## Development Guide
+## Development Guide
 
 Environment Variables: DATABASE_URL, NEXT_PUBLIC_API_BASE, OPENAI_API_KEY
 
@@ -135,7 +135,7 @@ Tests: Coming soon
 
 Contribute: Fork → Feature branch → PR (use conventional commits)
 
-🎯 ## Use Cases & Applications
+## Use Cases & Applications
 
 Students & Educators: Hands-on startup education with gamified XP/levels.
 
@@ -143,7 +143,7 @@ Universities & Incubators: Accelerators, online learning, engagement metrics.
 
 Community & Mentors: Volunteer mentorship, AI-chat feedback loops.
 
-🏆 ## Key Features
+## Key Features
 
 AI-Driven Ideation & Analysis (Problem, Concept, Market, Validation, MVP)
 
