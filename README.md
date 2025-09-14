@@ -119,7 +119,7 @@ npm install
 npm run dev
 ```
 
-🔗 ## Access Points
+🔗 ## 🛠️ Technology Stack
 
 - **Backend API** → [https://localhost:8080](https://localhost:8080)  
 - **Frontend App** → [http://localhost:3000](http://localhost:3000)  
