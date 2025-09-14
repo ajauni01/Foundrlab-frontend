@@ -45,7 +45,7 @@ Each feature (Problem generation, Validation, Market research, etc.) is exposed 
 
 ---
 
-📚 ## Core Modules
+## 📚 Core Modules
 
 -  **Problem Generator** – Creates tailored problem statements.  
 -  **Concept Creator** – Turns validated problems into startup concepts.  
